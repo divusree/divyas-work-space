@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Divya’s WorkSpace</title>
+    <link>http://divyaswork.space/</link>
+    <description>Recent content on Divya’s WorkSpace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 17:55:40 +0530</lastBuildDate>
+    
+	<atom:link href="http://divyaswork.space/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brownian</title>
+      <link>http://divyaswork.space/blogs/csg/brownian/</link>
+      <pubDate>Wed, 01 Jan 2020 17:55:40 +0530</pubDate>
+      
+      <guid>http://divyaswork.space/blogs/csg/brownian/</guid>
+      <description>2D Brownian Walk A simple simulation in Python of 2D random walk.
+  2D Random Walk   The GitHub Code is located at: Neat</description>
+    </item>
+    
+    <item>
+      <title>Brownian</title>
+      <link>http://divyaswork.space/blogs/misc/brownian/</link>
+      <pubDate>Wed, 01 Jan 2020 17:55:40 +0530</pubDate>
+      
+      <guid>http://divyaswork.space/blogs/misc/brownian/</guid>
+      <description>2D Brownian Walk A simple simulation in Python of 2D random walk.
+  2D Random Walk   The GitHub Code is located at: Neat</description>
+    </item>
+    
+    <item>
+      <title>Brownian</title>
+      <link>http://divyaswork.space/blogs/numericalanalysis/brownian/</link>
+      <pubDate>Wed, 01 Jan 2020 17:55:40 +0530</pubDate>
+      
+      <guid>http://divyaswork.space/blogs/numericalanalysis/brownian/</guid>
+      <description>2D Brownian Walk A simple simulation in Python of 2D random walk.
+  2D Random Walk   The GitHub Code is located at: Neat</description>
+    </item>
+    
+    <item>
+      <title>Brownian</title>
+      <link>http://divyaswork.space/blogs/stochastics/brownian/</link>
+      <pubDate>Wed, 01 Jan 2020 17:55:40 +0530</pubDate>
+      
+      <guid>http://divyaswork.space/blogs/stochastics/brownian/</guid>
+      <description>2D Brownian Walk A simple simulation in Python of 2D random walk.
+  2D Random Walk   The GitHub Code is located at: Neat</description>
+    </item>
+    
+  </channel>
+</rss>
