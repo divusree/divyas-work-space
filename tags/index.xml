@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Divya’s WorkSpace</title>
-    <link>http://divyaswork.space/tags/</link>
+    <link>https://divyaswork.space/tags/</link>
     <description>Recent content in Tags on Divya’s WorkSpace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://divyaswork.space/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://divyaswork.space/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
