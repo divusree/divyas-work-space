@@ -12,33 +12,13 @@
     
     
     <item>
-      <title>Brownian</title>
-      <link>http://divyaswork.space/blogs/csg/brownian/</link>
-      <pubDate>Wed, 01 Jan 2020 17:55:40 +0530</pubDate>
-      
-      <guid>http://divyaswork.space/blogs/csg/brownian/</guid>
-      <description>2D Brownian Walk A simple simulation in Python of 2D random walk.
-  2D Random Walk   The GitHub Code is located at: Neat</description>
-    </item>
-    
-    <item>
-      <title>Brownian</title>
-      <link>http://divyaswork.space/blogs/numericalanalysis/brownian/</link>
-      <pubDate>Wed, 01 Jan 2020 17:55:40 +0530</pubDate>
-      
-      <guid>http://divyaswork.space/blogs/numericalanalysis/brownian/</guid>
-      <description>2D Brownian Walk A simple simulation in Python of 2D random walk.
-  2D Random Walk   The GitHub Code is located at: Neat</description>
-    </item>
-    
-    <item>
-      <title>Brownian</title>
+      <title>2D Brownian Walk</title>
       <link>http://divyaswork.space/blogs/stochastics/brownian/</link>
       <pubDate>Wed, 01 Jan 2020 17:55:40 +0530</pubDate>
       
       <guid>http://divyaswork.space/blogs/stochastics/brownian/</guid>
-      <description>2D Brownian Walk A simple simulation in Python of 2D random walk.
-  2D Random Walk   The GitHub Code is here</description>
+      <description>A simple simulation in Python of 2D random walk.
+  2D Random Walk   The GitHub Code is here.</description>
     </item>
     
   </channel>
